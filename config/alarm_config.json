@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "audio_enabled": true,
+  "visual_enabled": true,
+  "email_enabled": false,
+  "sms_enabled": false,
+  "webhook_enabled": false,
+  "audio_file": "static/alarm.wav",
+  "audio_volume": 0.7,
+  "audio_duration": 3.0,
+  "flash_duration": 2.0,
+  "flash_color": [
+    255,
+    0,
+    0
+  ],
+  "email_recipients": [],
+  "sms_recipients": [],
+  "webhook_url": "",
+  "cooldown_duration": 5.0,
+  "max_alarms_per_minute": 10
+}

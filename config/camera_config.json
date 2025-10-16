@@ -1,0 +1,13 @@
+{
+  "camera_id": 0,
+  "camera_url": null,
+  "width": 640,
+  "height": 480,
+  "fps": 30,
+  "buffer_size": 10,
+  "detection_interval": 1,
+  "save_violations": true,
+  "save_path": "logs/violations",
+  "max_fps": 30,
+  "skip_frames": false
+}
